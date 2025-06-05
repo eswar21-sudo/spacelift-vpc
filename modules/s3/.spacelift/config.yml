@@ -1,0 +1,9 @@
+stack:
+  name: s3-module
+  labels:
+    - module
+    - s3
+  workspace: s3-module
+  project_root: modules/s3
+  terraform_version: 1.6.2
+  module: true
