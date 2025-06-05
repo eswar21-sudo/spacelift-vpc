@@ -1,0 +1,5 @@
+module:
+  name: vpc
+  provider: aws
+  registry_enabled: true
+working_directory: .
