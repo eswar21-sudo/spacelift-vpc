@@ -1,0 +1,9 @@
+stack:
+  name: s3-consumer
+  labels:
+    - consumer
+    - s3
+  workspace: s3-consumer
+  project_root: consumer
+  terraform_version: 1.6.2
+  module: false
